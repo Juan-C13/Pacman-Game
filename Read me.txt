@@ -1,0 +1,12 @@
+Creado por Juan Clavijo
+
+El juego usa 3 fuentes de letra:
+
+-snaptic
+-comicsansms
+-arialblack
+
+Tiene una variable "cuadros" que originalmente tiene un valor de 35.
+Pero, se puede modificar, esta le dará las dimensiones a la ventana del juego en sí, al tamaño de todo.
+
+Una vez se pierda y no queden vidas se mostrará "GAME OVER" y se cerrará el juego en unos 7 segundos.
